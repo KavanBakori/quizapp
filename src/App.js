@@ -10,7 +10,7 @@ const App = () => {
     <>
       <Router>
         <Routes>
-            <Route exact path="/" element={<Home/>}/>
+            <Route exact path="https://kavanbakori.github.io/quizapp/" element={<Home/>}/>
             <Route exact path="/questions" element={<Questions answer={answer} setAnswer={setAnswer}/>}/>
             <Route exact path="/solution" element={<Result answer={answer}/>}/>
           </Routes>
