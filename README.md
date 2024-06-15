@@ -18,7 +18,7 @@ To get this project on your device, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/quizapp.git](https://github.com/KavanBakori/quizapp.git)
+   git clone https://github.com/yourusername/quizapp.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
